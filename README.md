@@ -13,11 +13,11 @@ Instructions on how to run the tests
 5.	TestNG:
     -	Test framework used for structuring and executing test cases.
 6.	Download the source code:
-    -	Download the source code from GitHub to your local machine.
+    -	Download the source code named as ToDoMVC.java from GitHub to your local machine.
   
 Setup Instructions
 1.	Open the source code in an IDE:
-    -	Open the source code in an IDE like Eclipse.
+    -	Open the source code (ToDoMVC.java) in an IDE like Eclipse.
 2.	Update chromedriver Path:
     -	Ensure the ChromeDriver executable path in the test code or configuration matches your local setup.
   
